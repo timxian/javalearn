@@ -1,2 +1,24 @@
 # javalearn
-Record and share the knowledge and skills when I learn java related technologies, like mybatis, spring, spring cloud, docker, maven, vue and so on
+
+该Repo主要是用于记录和分享在学习Java相关技术和知识体系过程中的相应知识点和关键技巧。
+
+## 背景
+
+本人之前的技术背景主要是C#和C++，最近打算系统和深入的学习Java相关的技术链。在这个学习过程中，感受到大部分知识点和技巧其实在不同语言之间都是相通的。因此特此开一个Repo来记录相关的学习笔记。同时也希望和跟我有同样背景的工程师进行分享和交流。加快整个技术链的学习进程和技术转移进度。
+
+## 涵盖内容
+
+该Repo计划会记录和分享的技术内容主要有以下几大块（将来可能持续会更新）
+
+1. Mybatis
+2. Spring
+3. Spring Boot
+4. Spring Cloud
+5. Mysql
+6. Redis
+7. InfluxDB
+8. Hadoop
+9. Docker
+10. Vue
+
+分享顺序可能会根据本人学习过程中的进度进行调整。最终目标是把Java在实现企业级Web的应用的过程中涉及的核心技术覆盖一遍。由于本人的水平和能力有限，分享过程中可能会有疏漏错误的地方，欢迎大家不吝指教。
